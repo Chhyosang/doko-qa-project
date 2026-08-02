@@ -5,12 +5,12 @@
 |---|---|
 | Project Name | Doko – E-Commerce Web Application |
 | Document Version | 1.0 |
-| Prepared By | [Your Name] |
+| Prepared By | [Chhyosang lepcha] |
 | Role | QA Engineer (Manual Testing) |
-| Date | [Insert Date] |
+| Date | [2025] |
 
 ## 2. Introduction
-Doko is an e-commerce web application built as a college project, allowing users to browse products, manage a shopping cart, check out, and complete payments. This document defines the scope, approach, resources, and schedule for manual QA testing of the application.
+Doko is an e-commerce web application built as a college project, allowing users to browse products, manage a shopping cart, check out and complete payments. This document defines the scope, approach, resources and schedule for manual QA testing of the application.
 
 ## 3. Objectives
 - Verify that all core e-commerce functionalities work as intended.
@@ -102,5 +102,5 @@ Manual black-box testing will be performed using the following techniques:
 ## 13. Approval
 | Name | Role | Signature/Date |
 |---|---|---|
-| [Your Name] | QA Engineer | |
-| [Guide/Mentor Name] | Project Guide (optional) | |
+| [Chhyosang Lepcha] | QA Engineer | |
+
