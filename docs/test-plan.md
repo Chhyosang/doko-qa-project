@@ -5,7 +5,7 @@
 |---|---|
 | Project Name | Doko – E-Commerce Web Application |
 | Document Version | 1.0 |
-| Prepared By | [Chhyosang lepcha] |
+| Prepared By | Chhyosang Lepcha |
 | Role | QA Engineer (Manual Testing) |
 | Date | [2025] |
 
