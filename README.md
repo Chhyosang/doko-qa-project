@@ -68,5 +68,5 @@ Full details in [`bug-reports/bug-log.xlsx`](bug-reports/bug-log.xlsx).
 ## 🙋 About Me
 This project was created as part of a college e-commerce project (Doko) to practice and demonstrate manual QA testing skills for my resume and portfolio.
 
-**[Your Name]**
-[LinkedIn] | [Email] | [Portfolio]
+**Chhyosang Lepcha**
+[https://www.linkedin.com/in/chhyosang-lepcha-088182215/] | [chhyosanglepcha@gmail.com] | [Portfolio]
