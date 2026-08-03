@@ -6,17 +6,17 @@
 | Project Name | Doko – E-Commerce Web Application |
 | Document Version | 1.0 |
 | Prepared By | Chhyosang Lepcha |
-| Role | QA Engineer (Manual Testing) |
-| Date | [2025] |
+| Role | QA (Manual Testing) |
+| Date | [2025-11-24] |
 
 ## 2. Introduction
 Doko is an e-commerce web application built as a college project, allowing users to browse products, manage a shopping cart, check out and complete payments. This document defines the scope, approach, resources and schedule for manual QA testing of the application.
 
 ## 3. Objectives
 - Verify that all core e-commerce functionalities work as intended.
-- Identify, document, and track defects across major modules.
-- Validate the application against functional, UI/UX, and negative/boundary test scenarios.
-- Produce a portfolio-ready QA artifact set (test plan, RTM, test cases, bug reports, summary report).
+- Identify, document and track defects across major modules.
+- Validate the application against functional, UI/UX and negative/boundary test scenarios.
+- Produce a portfolio-ready QA artifact set (test plan,test cases, bug reports, summary report).
 
 ## 4. Scope
 
@@ -33,15 +33,15 @@ Doko is an e-commerce web application built as a college project, allowing users
 
 ### 4.2 Out of Scope
 - Automated testing / test scripting
-- Performance, load, and stress testing
+- Performance, load and stress testing
 - Penetration/security testing (only basic negative-input checks are included)
-- Third-party payment gateway's internal systems (only integration behavior from Doko's side is tested)
-- Native mobile app testing (if Doko is web-only)
+- Third-party payment gateway's internal systems 
+- Native mobile app testing 
 
 ## 5. Test Approach / Strategy
 Manual black-box testing will be performed using the following techniques:
 - **Functional Testing** – Verify each feature works per requirements.
-- **UI/UX Testing** – Check layout, responsiveness, alignment, and usability.
+- **UI/UX Testing** – Check layout, responsiveness, alignment and usability.
 - **Negative Testing** – Invalid inputs, empty fields, wrong formats.
 - **Boundary Value Testing** – Min/max limits (e.g., quantity, price, character length).
 - **Smoke Testing** – Quick check of critical flows before a full test cycle.
@@ -52,16 +52,16 @@ Manual black-box testing will be performed using the following techniques:
 | Item | Detail |
 |---|---|
 | Application URL | [Local/staging URL of Doko] |
-| Browsers | Chrome, Firefox, Edge (latest versions) |
-| Devices | Desktop (Windows), Mobile view via browser responsive mode |
+| Browsers | Chrome |
+| Devices | Desktop (Windows)|
 | Test Data | Dummy user accounts, sample products, test card numbers (sandbox) |
 | Tools | Browser DevTools, Excel/Google Sheets, GitHub Issues |
 
 ## 7. Roles & Responsibilities
 | Role | Responsibility |
 |---|---|
-| QA Tester (You) | Test planning, test case design, execution, bug logging, reporting |
-| Developer(s) | Fix reported bugs, support root-cause discussion |
+| QA Tester | Test planning, test case design, execution, bug logging, reporting |
+| Developer | Fix reported bugs, support root-cause discussion |
 
 ## 8. Entry Criteria
 - Doko application is deployed and accessible in the test environment.
@@ -74,7 +74,7 @@ Manual black-box testing will be performed using the following techniques:
 - Test summary report has been prepared and shared.
 
 ## 10. Test Deliverables
-1. Test Plan (this document)
+1. Test Plan 
 2. Requirement Traceability Matrix (RTM)
 3. Test Case Document
 4. Bug Reports (GitHub Issues / bug log sheet)
@@ -100,7 +100,7 @@ Manual black-box testing will be performed using the following techniques:
 | Test Summary Report | 1 day |
 
 ## 13. Approval
-| Name | Role | Signature/Date |
+| Name | Role | 2025-11-24 |
 |---|---|---|
-| [Chhyosang Lepcha] | QA Engineer | |
+| [Chhyosang Lepcha] | QA | |
 
