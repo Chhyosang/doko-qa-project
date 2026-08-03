@@ -1,9 +1,9 @@
 # Test Summary Report — Doko E-Commerce Platform
 
 ## 1. Overview
-This report summarizes the manual QA testing effort carried out on the Doko e-commerce application, covering registration/login, product browsing, shopping cart, checkout, payment processing, order management, and admin panel modules.
+This report summarizes the manual QA testing effort carried out on the Doko e-commerce application, covering registration/login, product browsing, shopping cart, checkout, payment processing, order management and admin panel modules.
 
-> **Note:** The numbers below are a sample/template based on the 45 designed test cases. Replace them with your real execution results once you run the test cases against your Doko build.
+> **Note:** The numbers below are a sample/template based on the 45 designed test cases.
 
 ## 2. Test Execution Summary
 | Metric | Count |
@@ -57,7 +57,7 @@ Full details are in [`bug-reports/bug-log.xlsx`](../bug-reports/bug-log.xlsx).
 ## 7. Sign-off
 | Field | Detail |
 |---|---|
-| Tested By | [Your Name] |
+| Tested By | Chhyosang Lepcha |
 | Test Cycle | Cycle 1 |
-| Date | [Insert Date] |
+| Date | 2025-11-24 |
 | Status | Ready for retest after critical/major bug fixes |
