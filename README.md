@@ -69,4 +69,4 @@ Full details in [`bug-reports/bug-log.xlsx`](bug-reports/bug-log.xlsx).
 Doko was originally built as a college e-commerce project. This repository documents the manual QA testing I performed on it — test planning, test case design, execution and defect reporting — created to demonstrate real-world QA skills for my resume and portfolio.
 
 **Chhyosang Lepcha**
-[https://www.linkedin.com/in/chhyosang-lepcha-088182215/] | [chhyosanglepcha@gmail.com] | [Portfolio]
+[https://www.linkedin.com/in/chhyosang-lepcha-088182215/] | [chhyosanglepcha@gmail.com] 
