@@ -100,7 +100,7 @@ Manual black-box testing will be performed using the following techniques:
 | Test Summary Report | 1 day |
 
 ## 13. Approval
-| Name | Role | 2025-11-24 |
+| Name | Role | Date |
 |---|---|---|
-| [Chhyosang Lepcha] | QA | |
+| [Chhyosang Lepcha] | QA |2025-11-24 |
 
