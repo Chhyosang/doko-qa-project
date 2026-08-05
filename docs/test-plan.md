@@ -102,5 +102,5 @@ Manual black-box testing will be performed using the following techniques:
 ## 13. Approval
 | Name | Role | Date |
 |---|---|---|
-| [Chhyosang Lepcha] | QA |2025-11-24 |
+| Chhyosang Lepcha | QA |2025-11-24 |
 
