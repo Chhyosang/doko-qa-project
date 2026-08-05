@@ -51,7 +51,7 @@ Manual black-box testing will be performed using the following techniques:
 ## 6. Test Environment
 | Item | Detail |
 |---|---|
-| Application URL | [Local/staging URL of Doko] |
+| Application URL | (http://localhost:5173) |
 | Browsers | Chrome |
 | Devices | Desktop (Windows)|
 | Test Data | Dummy user accounts, sample products, test card numbers (sandbox) |
