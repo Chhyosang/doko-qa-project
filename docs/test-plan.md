@@ -51,9 +51,9 @@ Manual black-box testing will be performed using the following techniques:
 ## 6. Test Environment
 | Item | Detail |
 |---|---|
-| Application URL | (http://localhost:5173) |
+| Application URL | http://localhost:5173 |
 | Browsers | Chrome |
-| Devices | Desktop (Windows)|
+| Devices | Desktop Windows 11|
 | Test Data | Dummy user accounts, sample products, test card numbers (sandbox) |
 | Tools | Browser DevTools, Excel/Google Sheets, GitHub Issues |
 
