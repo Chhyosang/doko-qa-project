@@ -1,8 +1,8 @@
 # Doko E-Commerce — Manual QA Testing Project
 
-Manual QA testing project performed on **Doko**, a college-built full-stack e-commerce web application covering shopping cart, checkout, and payment processing (plus registration/login, product browsing, order management, and admin panel).
+Manual QA testing project performed on **Doko**, a college-built full-stack e-commerce web application covering shopping cart, checkout and payment processing (plus registration/login, product browsing, order management and admin panel).
 
-This repository documents the complete manual testing lifecycle: test planning, requirement traceability, test case design, execution, defect logging, and reporting — built as a portfolio piece to demonstrate real-world manual QA skills.
+This repository documents the complete manual testing lifecycle: test planning, requirement traceability, test case design, execution, defect logging and reporting — built as a portfolio piece to demonstrate real-world manual QA skills.
 
 ##  Project Summary
 - **Application under test:** Doko (E-Commerce web app)
